@@ -1,0 +1,43 @@
+body {
+    background-image: url(../image.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+    color: red;
+}
+
+section {
+    margin: 20px 40px;
+    padding: 20px 40px;
+}
+
+#home {
+    background-color: aliceblue;
+}
+#menu {
+    background-color: azure;
+}
+#horraire {
+    background-color: beige;
+}
+#contact {
+    background-color: blanchedalmond;
+}
+
+table {
+    border: 1px solid black;
+}
+
+footer{
+    padding: 20px 40px;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+}
+
+footer a {
+    text-decoration: none;
+    letter-spacing: 4px;
+}
